@@ -1,0 +1,17 @@
+Hotel Management System
+Api==>1. Api Custemer data insert in database
+2. Api Available room (means active customer)
+
+reference==>https://github.com/okanuregen/Django---Hotel-Management-System
+
+
+https://www.youtube.com/watch?v=MLGgr3g-W3Y&list=PLgnySyq8qZmpsIXNw-A7oLEHeCHqhc2Ac&index=7&ab_channel=CodeArtisanLab
+
+URL shortner
+
+google meet---https://meet.google.com/qgd-qgzt-jyu
+
+9982230173--manoj kumar 
+
+
+
